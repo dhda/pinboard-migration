@@ -1,0 +1,6 @@
+[pocket]
+consumer_key = "44250-f0b2efe82f4d8ea9f3a3deb4"
+access_token = "<your Pocket OAuth access token>"
+
+[pinboard]
+api_key = "<your Pinboard API key>"
